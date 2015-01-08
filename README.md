@@ -9,4 +9,4 @@ Generic DAO pattern is implemented and can be improved.
 3. Open browser and paste url `http://localhost:8080/rooms`.
 4. Screen shot of the home page is attached
 
-![image of home page](http://s6.postimg.org/9i2hqhzsx/Home_Page.png)
+![image of home page](http://s6.postimg.org/uhn6vqqv5/Home_Page.png)
